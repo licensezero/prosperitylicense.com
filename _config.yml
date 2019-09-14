@@ -1,0 +1,14 @@
+title: Prosperity Public License
+description: the noncommercial software license
+url: https://prosperitylicense.com
+homepage: https://prosperitylicense.com
+image: https://prosperitylicense.com/logo-on-white.png
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+collections:
+  versions:
+    output: true
+  projects:
+    output: true
