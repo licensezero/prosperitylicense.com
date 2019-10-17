@@ -1,6 +1,7 @@
 ---
 title: The Prosperity Public License
 description: the noncommercial software license
+layout: default
 ---
 
 Prosperity is a public `LICENSE` for software that makes work free for noncommercial use, with a built-in free trial for commercial users.
