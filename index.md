@@ -12,6 +12,6 @@ On this site, you can:
 
 - [Peruse a showcase](/projects) of Prosperity-licensed projects.
 
-- Review [old versions](/versions) of the license.
+- Review [other versions](/versions) of the license.
 
 License development continues in [the GitHub repository](https://github.com/licensezero/prosperity-public-license).  Feel free to open issues and send pull requests.
