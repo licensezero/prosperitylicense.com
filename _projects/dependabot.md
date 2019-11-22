@@ -1,6 +1,6 @@
 ---
 title: Dependabot Core
-description: The heart of Dependabot. It handles the logic for updating dependencies on GitHub (including GitHub Enterprise), GitLab and Azure DevOps.
+description: handles updating dependencies on GitHub (including GitHub Enterprise), GitLab and Azure DevOps
 repository: https://github.com/dependabot/dependabot-core
 language: JavaScript
 developer:
