@@ -4,14 +4,20 @@ description: the noncommercial software license
 layout: default
 ---
 
-Prosperity is a public `LICENSE` for software that makes work free for noncommercial use, with a built-in free trial for commercial users.
+[Prosperity](versions/2.0.0) is a public `LICENSE` for software that makes work free for noncommercial use, with a built-in free trial for commercial users.
 
-On this site, you can:
+<h2 id=projects>Projects</h2>
 
-- [Read the latest version of Prosperity](/versions/2.0.0.html) for yourself.
+<ul class="projects">
+{% for project in site.projects reversed %}
+<li>
+    <a href="{{project.url}}">{{project.title}}</a>{% if project.description %}, {{project.description}}{% endif %}{% if project.language %}, in {{project.language}}{% endif %}
+  </li>
+  {% endfor %}
+</ul>
 
-- [Peruse a showcase](/projects) of Prosperity-licensed projects.
+<p>To list your project, send a pull request <a href="https://github.com/licensezero/prosperitylicense.com/">via GitHub</a>.</p>
 
-- Review [other versions](/versions) of the license.
+<h2 id=Development>Development</h2>
 
 License development continues in [the GitHub repository](https://github.com/licensezero/prosperity-public-license).  Feel free to open issues and send pull requests.
