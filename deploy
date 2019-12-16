@@ -1,6 +1,7 @@
 #!/bin/sh
 set -e
 rm -rf _site
-bundle install --quiet
-bundle exec jekyll build --quiet
-rsync -a --delete _site/ prosperitylicense.com:/var/www/prosperitylicense.com/
+SITE=prosperitylicense.com
+bundler install --quiet
+bundler exec jekyll build --quiet
+rsync -a --delete _site/ $SITE:/var/www/$SITE/
