@@ -4,7 +4,7 @@ description: the noncommercial software license
 layout: default
 ---
 
-[Prosperity](versions/2.0.0.html) is a public `LICENSE` for software that makes work free for noncommercial use, with a built-in free trial for commercial users.
+[Prosperity](versions/3.0.0.html) is a public `LICENSE` for software that makes work free for noncommercial use, with a built-in free trial for commercial users.
 
 <h2 id=projects>Projects</h2>
 
