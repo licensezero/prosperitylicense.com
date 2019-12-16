@@ -1,5 +1,5 @@
 ---
-title: The Prosperity Public License
+title: Prosperity Public License
 description: the noncommercial software license
 layout: default
 ---
