@@ -6,6 +6,8 @@ layout: default
 
 <div class="download"><a class="button" href="/3.0.0.md" download="LICENSE.md">Download <code>LICENSE.md</code> For Your Project</a></div>
 
+<div class="centered"><a class="button" href="/versions/3.0.0">Read the Latest Version Online</a></div>
+
 [Prosperity](versions/3.0.0.html) is a public `LICENSE` for software that makes work free for noncommercial use, with a built-in free trial for commercial users.
 
 <h2 id=projects>Projects</h2>
