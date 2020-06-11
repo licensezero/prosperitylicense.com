@@ -2,7 +2,6 @@
 title: Geoffrey Huntley
 description: a personal monorepo of Geoffrey Huntley's software
 repository: https://github.com/ghuntley/ghuntley
-language: Assorted
 developer:
   name: Geoffrey Huntley
   homepage: https://ghuntley.com/licensing
