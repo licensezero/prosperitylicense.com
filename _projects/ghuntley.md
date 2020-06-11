@@ -6,6 +6,8 @@ language: Assorted
 developer:
   name: Geoffrey Huntley
   homepage: https://ghuntley.com/licensing
+model: patronage
+store: https://ghuntley.com/support
 version: 3.0.0
 layout: project
 date: 2020-06-08
