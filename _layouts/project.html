@@ -26,16 +26,16 @@
       <td><a href="{{page.developer.homepage|escape}}">{{page.developer.name}}</a></td>
     </tr>
     {% endif %}
-    {% if page.model %}
-    <tr>
-      <th>Business Model</th>
-      <td>{{page.model}}</td>
-    </tr>
-    {% endif %}
     {% if page.version %}
     <tr>
       <th>License</th>
       <td><a href="/versions/{{page.version}}.html">Prosperity-{{page.version}}</a></td>
+    </tr>
+    {% endif %}
+    {% if page.model %}
+    <tr>
+      <th>Business Model</th>
+      <td>{{page.model}}</td>
     </tr>
     {% endif %}
     {% if page.store %}
