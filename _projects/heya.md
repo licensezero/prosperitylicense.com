@@ -6,6 +6,8 @@ language: Ruby
 developer:
   name: Honeybadger
   homepage: https://www.honeybadger.io
+mode: commercial licenses
+store: https://gumroad.com/l/heya-rails
 version: 3.0.0
 layout: project
 date: 2020-04-16
