@@ -6,6 +6,8 @@ language: C#
 developer:
   name: Dave Glick
   homepage: http://daveaglick.com/
+model: commercial licenses
+store: https://statiq.dev/support/
 version: 2.0.0
 layout: project
 date: 2019-09-08
