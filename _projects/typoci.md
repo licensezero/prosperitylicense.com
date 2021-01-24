@@ -8,7 +8,7 @@ language: Ruby
 developer:
   name: Mike Rogers
   homepage: https://mikerogers.io/
-version: 0.3.0
+version: 3.0.0
 layout: project
 date: 2020-12-16
 ---
