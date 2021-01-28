@@ -5,7 +5,7 @@ repository: https://github.com/Glench/fuzzyset.js
 language: JavaScript
 developer:
   name: Glen Chiacchieri
-  homepage: http//glench.com
+  homepage: http://glench.com
 version: 3.0.0
 layout: project
 date: 2020-05-08
