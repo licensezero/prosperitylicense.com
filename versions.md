@@ -1,6 +1,6 @@
 ---
 title: Versions of the Prosperity Public License
-permalink: /versions/index.html
+permalink: /versions/
 layout: default
 ---
 
