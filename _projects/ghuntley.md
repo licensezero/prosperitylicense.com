@@ -1,5 +1,5 @@
 ---
-title: Geoffrey Huntley
+title: ghuntley
 description: a personal monorepo of Geoffrey Huntley's software
 repository: https://github.com/ghuntley/ghuntley
 developer:
